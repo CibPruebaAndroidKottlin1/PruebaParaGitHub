@@ -11,7 +11,7 @@ class PruebaActivity : AppCompatActivity() {
         setContentView(R.layout.activity_prueba)
 
         btnAceptar.setOnClickListener {
-            txtTexto.text = "Hola Mundo"
+            txtTexto.text = "Hola DAMI"
         }
 
     }
