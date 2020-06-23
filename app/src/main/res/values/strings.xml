@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">PruebaParaGitHub</string>
     <string name="aceptar">Aceptar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="listar">Listar</string>
 </resources>
